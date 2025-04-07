@@ -1,0 +1,25 @@
+# Librerías principales
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ta                # Indicadores técnicos (Technical Analysis Library)
+joblib            # Para guardar y cargar modelos
+
+# Conexión a Binance
+python-binance
+
+# Opcional: para conectarse a múltiples exchanges si querés escalar
+ccxt
+
+# Jupyter Notebooks
+notebook
+jupyterlab
+ipykernel
+
+# Logging y control de entorno
+python-dotenv
+
+# Desarrollo general
+tqdm

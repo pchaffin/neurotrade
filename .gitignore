@@ -1,0 +1,16 @@
+# Datos y modelos
+/data/
+/models/
+/signals/
+*.csv
+*.joblib
+
+# Entornos virtuales
+.venv/
+env/
+__pycache__/
+
+# Configuración local
+*.env
+*.ini
+*.log
